@@ -1,10 +1,10 @@
 # CactusKev
 
-A Ruby port of the Cactus Kev's Poker Hand Evaluator using Paul Senzee's perfect hash technique.
-http://www.suffecool.net/poker/evaluator.html
+A Ruby port of the Cactus Kev's Poker Hand Evaluator using Paul Senzee's perfect hash technique.<br />
+http://www.suffecool.net/poker/evaluator.html<br />
 http://www.paulsenzee.com/2006/06/some-perfect-hash.html
 
-This was derived from the XPokerEval compilation put together by James Devlin
+This was derived from the XPokerEval compilation put together by James Devlin<br />
 http://www.codingthewheel.com/archives/poker-hand-evaluator-roundup#xpokereval
 
 ## Installation
